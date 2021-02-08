@@ -1,0 +1,49 @@
+Thakurgaon-Web Design & Development- Batch- TopUp 2 (LEDP-Lot: 01)Batch- TopUp 02
+Markup a Letter
+Fahim Foysal
+•
+Feb 7
+50 points
+Due Tomorrow
+-> Create a HTML file with provided text and CSS using proper markups.
+(Follow attached image for reference and styling.)
+-> Publish using GitHub Pages
+-> Submit GitHub Profile link and Published page URL
+css.txt
+Text
+letter-text.txt
+Text
+test.png
+Image
+Class comments
+Your work
+Assigned
+Private comments
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.sender-column {
+  text-align: right;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+p,ul,ol,dl,address {
+  font-size: 1.1em;
+}
+
+p, li, dd, dt, address {
+  line-height: 1.5;
+}
+
+css.txt
+Displaying css.txt.
